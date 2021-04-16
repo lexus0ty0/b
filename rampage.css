@@ -206,3 +206,13 @@ footer img {
     color: white;
     display: none;
 }
+
+.test img {
+    max-width: 300px;
+    border-radius: 5px;
+}
+
+.test {
+    text-align: center;
+    margin-bottom: 80px;
+}
